@@ -7,3 +7,5 @@ url: "http://werewolf.drunknerds.net" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+
+exclude: ["README.md"]
