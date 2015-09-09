@@ -57,6 +57,26 @@ In the noreveal game mode, player roles are not disclosed upon death.
 **Default Role:** Villager
 **Can Abstain?:** Yes
 
+Beware the Piper in the Charming game mode; given enough time, he will charm every player and win.
+
+* Piper
+* Seer
+* Wolf (1 at 5, 2 at 16, 3 at 22 players)
+* Cursed Villager (6 players)
+* Harlot (8 players)
+* Traitor (8 players)
+* Werekitten (10 players)
+* Gunner (1 at 10, 2 at 24 players)
+* Shaman (1 at 10, 2 at 22 players)
+* Sharpshooter (1 at 10, 2 at 24 players)
+* Vengeful Ghost (11 players)
+* Detective (12 players)
+* Warlock (12 players)
+* Bodyguard (1 at 14, 2 at 18 players)
+* Mayor (14 players)
+* Assassin (16 players)
+* Sorcerer (19 players)
+
 #### Evilvillage
 
 **Players:** 6 - 18
@@ -105,6 +125,22 @@ This mode is pure chaos. There is a variety of different roles, a great deal of 
 **Players:** 7 - 21
 **Default Role:** Villager
 **Can Abstain?:** Yes
+
+As could be inferred from its name, this mode involves a lot of Lycans, in addition to the wolves.
+
+* Villager
+* Cursed Villager (1 at 7, 2 at 12 players)
+* Hunter (1 at 7, 2 at 10 players)
+* Lycan (1 at 7, 2 at 9, 3 at 12, 4 at 15, 5 at 20 players)
+* Seer (1 at 7, 2 at 19 players)
+* Wolf (1 at 7, 2 at 10 players)
+* Traitor (8 players)
+* Clone (1 at 9, 2 at 17 players)
+* Mayor (10 players)
+* Guardian Angel (11 players)
+* Matchmaker (15 players)
+* Gunner (17 players)
+* Sharpshooter (17 players)
 
 #### Classic
 
@@ -159,11 +195,44 @@ This mode assigns a player the role of Mad Scientist from the start. They will s
 **Default Role:** Villager
 **Can Abstain?:** Yes
 
+Lots of wolves, an Oracle instead of a Seer and an Alpha Wolf at 10 players make Alpha mode a challenge for the villagers.
+
+* Oracle
+* Villager
+* Cursed Villager (1 at 7, 2 at 12, 3 at 18, 4 at 24 players)
+* Lycan (1 at 7, 2 at 17 players)
+* Wolf (1 at 7, 2 at 15, 3 at 18, 4 at 20, 5 at 24 players)
+* Traitor (8 players)
+* Harlot (8 players)
+* Village Drunk (8 players)
+* Alpha Wolf (10 players)
+* Doctor (10 players)
+* Guardian Angel (11 players)
+* Werecrow (12 players)
+* Matchmaker (14 players)
+* Augur (17 players)
+* Clone (20 players)
+
 #### Guardian
 
 **Players:** 8 - 16
 **Default Role:** Villager
 **Can Abstain?:** Yes
+
+The guardian mode features Guardian Angels to protect the villagers, but replaces the Seer with an Oracle.
+
+* Seer
+* Villager
+* Werekitten
+* Cursed Villager (1 at 8, 2 at 12 players)
+* Guardian Angel (1 at 8, 2 at 12 players)
+* Wolf (1 at 8, 2 at 15 players)
+* Shaman (10 players)
+* Werecrow (10 players)
+* Alpha Wolf (12 players)
+* Gunner (13 players)
+* Jester (13 players)
+* Bodyguard (15 players)
 
 #### DrunkFire
 
@@ -189,6 +258,30 @@ Much like RapidFire, DrunkFire will quickly devolve into chaos since almost ever
 **Players:** 8 - 24
 **Default Role:** Villager
 **Can Abstain?:** Yes
+
+Involving lots of different roles together all at once, Aleatoire also has different values for shaman totem probabilities (death (20%), protection (40%), silence (10%), desperation (5%), pestilence (5%), retribution (20%)).
+
+* Cursed Villager (2 at 8 players)
+* Seer
+* Shaman
+* Traitor
+* Wolf (1 at 8 players, 2 at 10 players)
+* Gunner (10 players)
+* Matchmaker (10 players)
+* Assassin (1 at 10, 2 at 12 players)
+* Vengeful Ghost (1 at 10, 2 at 18 players)
+* Amnesiac (12 players)
+* Bureaucrat (12 players)
+* Hag (12 players)
+* Augur (15 players)
+* Guardian Angel (15 players)
+* Hunter (15 players)
+* Lycan (15 players)
+* Mayor (15 players)
+* Werecrow (15 players)
+* Sharpshooter (21 players)
+* Time Lord (21 players)
+* Wolf Cub (21 players)
 
 #### Foolish
 
